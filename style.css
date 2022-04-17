@@ -1,0 +1,337 @@
+body{
+margin: 1px;
+padding: 0px;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+.logo1 img{
+width: 60px;
+height: 70px;
+
+}
+h1 strong{
+font-size: 32px;
+color: black;
+}
+h1 span{
+font-size: 32px;
+color: lightgray;
+}
+.banner{
+background-color: lightgrey;
+}
+.col-md img{
+width: 650px;
+height: 450px;
+padding-left: 24px;
+padding-top: 32px;
+padding-bottom: 32px;
+}
+.learn{
+text-align: left;
+font-size: 40px;
+font-weight: bold;
+padding-top: 110px ;
+padding-left: 24px;
+}
+.lorem{
+text-align: left;
+padding-left: 24px;
+font-size: 18px;
+}
+.start{
+text-align:center;
+width: 350px;
+background-color:black ;
+color: white;
+padding-top: 8px;
+padding-bottom: 8px;
+margin-left: 24px;
+
+}
+
+#a img{
+width: 650px;
+height: 450px;
+padding-left: 24px;
+padding-top: 32px;
+padding-bottom: 32px;
+}
+.first{
+font-size: 30px;
+text-align: left;
+padding-left: 24px;
+padding-bottom: 24px;
+}
+.second{
+font-size: 15px;
+text-align: left;
+padding-left: 24px;
+padding-bottom: 24px;
+}
+.third{
+font-size: 18px;
+font-weight: 500;
+text-align: left;
+padding-left: 24px;
+padding-bottom: 32px;
+}
+
+#b img{
+width: 40%;
+height: auto;
+padding-left: 16px;
+padding-top: 32px;
+padding-bottom: 32px;
+}
+.cnt1{
+float: right;
+text-align: left;
+padding-right: 24px;
+}
+
+.ctn11{
+padding-top: 70px;
+font-size: 20px;
+}
+.ctn12{
+text-align: left;
+font-size: 15px;
+}
+.read1{
+background-color:transparent;
+border: none;
+text-decoration: none;
+color: black;
+}
+
+#c img{
+width: 40%;
+height: auto;
+padding-left: 16px;
+padding-top: 32px;
+padding-bottom: 32px;
+}
+
+.cnt2{
+float: right;
+text-align: left;
+padding-right: 24px;
+}
+
+.ctn21{
+padding-top: 70px;
+font-size: 20px;
+}
+.ctn22{
+text-align: left;
+font-size: 15px;
+}
+.read2{
+background-color:transparent;
+border: none;
+text-decoration: none;
+color: black;
+}
+
+#d{
+background-color: lightgrey;
+
+}
+
+#d img{
+width: 40%;
+height: auto;
+padding-left: 16px;
+padding-top: 32px;
+padding-bottom: 32px;
+}
+
+.cnt3{
+float: right;
+text-align: left;
+padding-right: 24px;
+}
+
+.ctn31{
+padding-top: 50px;
+font-size: 20px;
+}
+.ctn32{
+font-size: 15px;
+}
+.read3{
+background-color: transparent;
+border: none;
+text-decoration: none;
+color: black;
+}
+
+.heading{
+text-align: center;
+font-size: 30px;
+font-weight: bold;
+padding-top: 32px;
+padding-bottom: 32px;
+}
+
+.part3{
+padding-left: 72px;
+padding-right: 72px;
+padding-bottom: 32px;
+background-color: lightgrey;
+}
+
+.card{
+width: 300px;
+height: 350px;
+padding-bottom: 32px;
+}
+
+.card img{
+height: auto;
+}
+.card-body{
+padding-top: 16px;
+padding-left: 16px;
+padding-bottom: 24px;
+}
+.card-title{
+font-weight: bold;
+font-size: 20px;
+padding-top: 16px;
+}
+.title2{
+padding-top: 8px;
+padding-bottom: 8px;
+font-size: 18px;
+font-weight: lighter;
+}
+.card-text{
+font-size: 15px;
+}
+
+#e video{
+width: 650px;
+height: 450px;
+padding-left: 24px;
+padding-bottom: 32px;
+}
+.firstp{
+font-size: 30px;
+text-align: left;
+padding-left: 24px;
+padding-bottom: 24px;
+}
+.secondp{
+font-size: 15px;
+text-align: justify;
+padding-left: 24px;
+padding-bottom: 24px;
+}
+.third{
+font-size: 18px;
+font-weight: 500;
+text-align: left;
+padding-left: 24px;
+padding-bottom: 32px;
+}
+
+#f{
+background-color: lightgrey;
+}
+
+#f img{
+width: 40%;
+height: auto;
+padding-left: 16px;
+padding-top: 16px;
+padding-bottom: 16px;
+padding-right: 16px;
+}
+.cnt4{
+float: right;
+}
+
+.ctn41{
+padding-top: 35px;
+font-size: 18px;
+text-align: left;
+padding-right: 70px;
+}
+.ctn42{
+text-align: left;
+font-size: 12px;
+padding-right: 70px;
+}
+
+#g img{
+width: 40%;
+height: auto;
+padding-left: 16px;
+padding-top: 16px;
+padding-bottom: 16px;
+padding-right: 16px;
+}
+
+.cnt5{
+float: right;
+}
+
+.ctn51{
+padding-top: 10px;
+font-size: 18px;
+padding-top: 55px;
+padding-right: 52px;
+}
+.ctn52{
+text-align: left;
+font-size: 12px;
+padding-right: 52px;
+}
+
+
+.heading4{
+text-align: center;
+font-size: 30px;
+font-weight: bold;
+padding-top: 32px;
+}
+
+.part4 .col-md-5{
+padding-top: 32px;
+padding-right: 32px;
+padding-left: 32px;
+}
+
+
+.part2 .col-5{
+padding-right: 10px;
+padding-left: 32px;
+}
+.part5{
+    border-top: 0.5px solid black;
+}
+footer{
+height: 100px;
+padding-top: 24px;
+padding-left: 24px;
+padding-bottom: 16px;
+font-size: 20px;
+}
+
+.footer-bottom a{
+text-decoration: none;
+float: right;
+font-size: 15px;
+padding-right: 32px;
+padding-left: 32px;
+padding-bottom: 16px;
+}
+
+#i{
+    color: black;
+    font-size: 20px;
+}
+
+
